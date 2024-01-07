@@ -1,0 +1,15 @@
+﻿.carousel-item img {
+    height: 33rem;
+}
+.navbar.navbar-dark .navbar-nav .nav-link:hover {
+    color: rgb(0, 0, 0);
+}
+
+.about_us_paragraph{
+
+    margin:0px 10px 0px 10px;
+
+}
+#footer_contact {
+    padding-top:6.2vh;
+}
